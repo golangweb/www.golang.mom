@@ -25,7 +25,7 @@
 
 ### 关于脚本
 
-- web/backup.sh: 备份整个站点(除了static目录下的资源文件外)
+- [web/backup.sh](web/backup.sh): 备份整个站点(除了static目录下的资源文件外)
 
 ### 使用技术
 
